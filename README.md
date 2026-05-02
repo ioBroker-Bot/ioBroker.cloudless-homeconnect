@@ -27,6 +27,9 @@ Adapter for Homeconnect devices without cloud communication
   Placeholder for the next version (at the beginning of the line):
   ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (copilot) Adapter requires node.js >= 22 now
+
 ### 1.6.4 (2026-03-13)
 
 - (eifel-tech) Dependency updates and required Admin-Version >= 7.6.20
